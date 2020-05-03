@@ -1,0 +1,11 @@
+C:\Users\Utilisateur\source\repos\Assignment5\Assignment5\obj\Debug\netcoreapp3.1\Assignment5.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\source\repos\Assignment5\Assignment5\obj\Debug\netcoreapp3.1\Assignment5.AssemblyInfo.cs
+C:\Users\Utilisateur\source\repos\Assignment5\Assignment5\bin\Debug\netcoreapp3.1\Assignment5.exe
+C:\Users\Utilisateur\source\repos\Assignment5\Assignment5\bin\Debug\netcoreapp3.1\Assignment5.deps.json
+C:\Users\Utilisateur\source\repos\Assignment5\Assignment5\bin\Debug\netcoreapp3.1\Assignment5.runtimeconfig.json
+C:\Users\Utilisateur\source\repos\Assignment5\Assignment5\bin\Debug\netcoreapp3.1\Assignment5.runtimeconfig.dev.json
+C:\Users\Utilisateur\source\repos\Assignment5\Assignment5\bin\Debug\netcoreapp3.1\Assignment5.dll
+C:\Users\Utilisateur\source\repos\Assignment5\Assignment5\bin\Debug\netcoreapp3.1\Assignment5.pdb
+C:\Users\Utilisateur\source\repos\Assignment5\Assignment5\obj\Debug\netcoreapp3.1\Assignment5.dll
+C:\Users\Utilisateur\source\repos\Assignment5\Assignment5\obj\Debug\netcoreapp3.1\Assignment5.pdb
+C:\Users\Utilisateur\source\repos\Assignment5\Assignment5\obj\Debug\netcoreapp3.1\Assignment5.csprojAssemblyReference.cache
